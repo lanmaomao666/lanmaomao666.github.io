@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[newww]]></title>
+    <url>%2Funcategorized%2Fnewww%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[MyNewPost]]></title>
     <url>%2Funcategorized%2FMyNewPost%2F</url>
     <content type="text"><![CDATA[welcome]]></content>
