@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[s]]></title>
+    <url>%2Funcategorized%2Fs-1%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[s]]></title>
+    <url>%2Funcategorized%2Fs%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[a]]></title>
+    <url>%2Funcategorized%2Fa%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
     <title><![CDATA[MyNewPost]]></title>
     <url>%2Funcategorized%2FMyNewPost%2F</url>
     <content type="text"><![CDATA[welcome]]></content>
