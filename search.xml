@@ -1,6 +1,29 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[产品经理专业术语]]></title>
+    <url>%2FPM%E7%AC%94%E8%AE%B0%2F%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86%E4%B8%93%E4%B8%9A%E6%9C%AF%E8%AF%AD%2F</url>
+    <content type="text"><![CDATA[产品经理常见专业术语职位类名称： PM：Product Manager-产品经理 Project Manager-项目经理 CPO：Chief Product Officer -产品总监 RD：Research &amp; Develop -研发工程师 HE：Hardware Engineer -硬件工程师 FE：Front End-后端工程师 QA：Quality Assurance-测试工程师 DBA：Database Administrator-数据库管理员 OP：Operations-运维工程师 文档类名称： BRD：Business Requirements Document-商业需求文档 MRD：Market Requirements Document-市场需求文档 PRD：Product Requirements Document-产品需求文档 FSD：Functional Specifications Document-功能详细说明 交互设计名词： UI：User Interface-用户界面 UID：User Interface Design-用户界面设计 ID：Interaction Design-交互设计 UE：User Experience-用户体验 UED：User Experience Design-用户体验设计 UCD：User Centered Design-以用户为中心的设计 POA：Primary Optical Area-第一视觉落点区 CLI：Command-line Interface(命令行界面) GUI：Graphical User Interface(图形用户界面) NUI：Natural User Interface(自然用户界面) 数据指标名称： ROI：Return On Investment-投资回报率 KPI：Key Performance Indicator-关键绩效指标 DAU：Daily Active User-日活跃用户量 DNU：Day New User-日新增用户量 WAU： Weekly Active Users-周活跃用户量 MAU：Monthly Active User-月活跃用户量 PV：page view-页面浏览量 UV：unique visitor-独立访客数 PCU：Peak concurrent users-最高在线用户数 ACU：Average concurrent users-平均同时在线用户数 ARPU：Average Revenue Per User-平均每活跃用户收益 ARPPU：Average Revenue Per Paying User-每付费用户平均收益 LTV：Life Time Value LTV-生命周期价值 CAC： Customer Acquisition Cost-用户获取成本 GMV：Gross Merchandise Volume-商品交易总量=销售额+取消订单金额+拒收订单金额+退货订单金额 SKU：Stock Keeping Unit-库存量单位 SPU：Standard Product Unit -标准化产品单元 行业名词： IM：Instant Messaging-即时通信（微信、QQ、旺旺） SNS：Social NetworkingServices-社会性网络服务（微博、脸书） LBS：Location Based Service-基于位置的服务 RSS：Really Simple Syndication-简易信息聚合 OTA：Online Travel Agen-在线旅行社（携程、去哪儿、飞猪） ERP：Enterprise Resource Planning-企业资源计划 SEO：Search Engine Optimization-搜索引擎优化 SEM：Search Engine Marketing-搜索引擎营销 UGC：User Generated Content-用户原创内容 SAAS：Software-as-a-service-软件即服务（阿里云、腾讯云） 技术相关： IP：Intellectual Property-知识产权 API：Application Programming Interface-应用程序编程接口 SDK：Software Development Kit-软件开发工具包 Alpha：-内部测试版本 Beta：-测试版 RC：Release Candidate-候选版 GA：General Availability-正式版 URL：Uniform Resoure Locator-统一资源定位器 DNS：Domain Name System - 域名解析 CDN：Content Delivery Network-数据分发网络，或者理解为数据中心 MD5：Message-Digest Algorithm-加密方式 电子商务： B2B：Business to Business- 企业到企业的电子商务模式（阿里巴巴） B2C：Business to Consumer- 企业对个人的电子商务模式（京东、一号店等电商平台） C2C：Consumer to Consumer- 个人与个人之间的电子商务模式（淘宝、闲鱼） O2O：Online to Offline-线上到线下的电子商务模式（滴滴、OfO、58到家） OTT：Over the Top -通过互联网向用户提供各种应用服务 众筹：通过互联网向公众筹款，有非法集资和跑路的风险 互联网金融：通过互联网的网络信贷平台及相关理财行为、金融服务。 VC：Venture Capital-风险投资，大多是创业投资。 广告计费模式： CPM：Cost Per Mille-每千次展现成本 CPA：Cost Per Action-每次行动（下载、注册等）成本 CPC：Cost Per Click-每次点击成本 CPS：Cost Per Sales-按销售额付费 CPR：Cost Per Response-每回应成本 CPT：Cost Per Time -每时间成本 版权声明：本文为博主原创文章，遵循 CC 4.0 BY-SA 版权协议，转载请附上原文出处链接和本声明。本文链接：https://blog.csdn.net/xiaoxiong_jiaxin/article/details/86541374]]></content>
+      <categories>
+        <category>PM笔记</category>
+      </categories>
+      <tags>
+        <tag>笔记</tag>
+        <tag>术语</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[用户体验地图]]></title>
+    <url>%2FPM%E7%AC%94%E8%AE%B0%2Fpost%2F</url>
+    <content type="text"><![CDATA[绘制用户体验地图，挖掘产品痛点，打磨产品。 流程 想法 需求 机会 举例：食堂就餐用户体验地图]]></content>
+      <categories>
+        <category>PM笔记</category>
+      </categories>
+      <tags>
+        <tag>方法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[数据来源汇总]]></title>
     <url>%2Funcategorized%2F%E6%95%B0%E6%8D%AE%E6%9D%A5%E6%BA%90%2F</url>
     <content type="text"><![CDATA[Appanie Usage Intelligence值得信赖的全球 App 市场数据、前沿业界观察和一站式平台。 Alexa 排名 流量分析 百度指数 某个关键词在百度的搜索规模有多大，一段时间内的涨跌态势以及相关的新闻舆论变化，关注这些词的网民是什么样的，分布在哪里，同时还搜了哪些相关的词，帮助用户优化数字营销活动方案。 易观智库 CNNIC 艾瑞咨询]]></content>
@@ -13,8 +36,8 @@
         <category>PM笔记</category>
       </categories>
       <tags>
-        <tag>创意</tag>
         <tag>方法</tag>
+        <tag>创意</tag>
         <tag>转载</tag>
       </tags>
   </entry>
@@ -26,8 +49,8 @@
         <category>PM笔记</category>
       </categories>
       <tags>
-        <tag>竞品分析</tag>
         <tag>笔记</tag>
+        <tag>竞品分析</tag>
       </tags>
   </entry>
   <entry>
