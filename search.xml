@@ -1,9 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Website Collection]]></title>
+    <url>%2F%E5%B7%A5%E5%85%B7%2FSite-Collection%2F</url>
+    <content type="text"><![CDATA[这里整理了一些常用素材网址的快捷方式 矢量图昵图网 无水印图我图网 搜图 图标iconfont 三维模型Free3D 数据来源]]></content>
+      <categories>
+        <category>工具</category>
+      </categories>
+      <tags>
+        <tag>网址</tag>
+        <tag>工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[9月阅读]]></title>
-    <url>%2Funcategorized%2F9%E6%9C%88%E9%98%85%E8%AF%BB%2F</url>
-    <content type="text"></content>
+    <url>%2F%E8%AF%BB%E4%B9%A6%2F9%E6%9C%88%E9%98%85%E8%AF%BB%2F</url>
+    <content type="text"><![CDATA[《浪潮之巅》 ` ` ` ` ` ` 《设计心理学》 ` ` ` ` `]]></content>
+      <categories>
+        <category>读书</category>
+      </categories>
+      <tags>
+        <tag>阅读</tag>
+        <tag>打卡</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[产品经理专业术语]]></title>
@@ -41,8 +60,8 @@
         <category>PM笔记</category>
       </categories>
       <tags>
-        <tag>创意</tag>
         <tag>方法</tag>
+        <tag>创意</tag>
         <tag>转载</tag>
       </tags>
   </entry>
@@ -57,11 +76,6 @@
         <tag>笔记</tag>
         <tag>竞品分析</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[MyNewPost]]></title>
-    <url>%2Funcategorized%2FMyNewPost%2F</url>
-    <content type="text"><![CDATA[中文test]]></content>
   </entry>
   <entry>
     <title><![CDATA[Hello World]]></title>

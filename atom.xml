@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-09T05:17:46.988Z</updated>
+  <updated>2019-09-09T06:25:49.000Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,16 +17,123 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>9月阅读</title>
-    <link href="http://yoursite.com/uncategorized/9%E6%9C%88%E9%98%85%E8%AF%BB/"/>
-    <id>http://yoursite.com/uncategorized/9月阅读/</id>
-    <published>2019-09-09T05:17:46.000Z</published>
-    <updated>2019-09-09T05:17:46.988Z</updated>
+    <title>Website Collection</title>
+    <link href="http://yoursite.com/%E5%B7%A5%E5%85%B7/Site-Collection/"/>
+    <id>http://yoursite.com/工具/Site-Collection/</id>
+    <published>2019-09-09T06:17:02.000Z</published>
+    <updated>2019-09-09T06:25:49.000Z</updated>
     
     <summary type="html">
     
+      &lt;p&gt;这里整理了一些常用素材网址的快捷方式&lt;/p&gt;
+    
     </summary>
     
+      <category term="工具" scheme="http://yoursite.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="网址" scheme="http://yoursite.com/tags/%E7%BD%91%E5%9D%80/"/>
+    
+      <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>9月阅读</title>
+    <link href="http://yoursite.com/%E8%AF%BB%E4%B9%A6/9%E6%9C%88%E9%98%85%E8%AF%BB/"/>
+    <id>http://yoursite.com/读书/9月阅读/</id>
+    <published>2019-09-02T05:17:46.000Z</published>
+    <updated>2019-09-09T06:05:34.244Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;《浪潮之巅》&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;p&gt;《设计心理学》&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;`&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+    
+    </summary>
+    
+      <category term="读书" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6/"/>
+    
+    
+      <category term="阅读" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB/"/>
+    
+      <category term="打卡" scheme="http://yoursite.com/tags/%E6%89%93%E5%8D%A1/"/>
     
   </entry>
   
@@ -111,9 +218,9 @@
       <category term="PM笔记" scheme="http://yoursite.com/categories/PM%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="创意" scheme="http://yoursite.com/tags/%E5%88%9B%E6%84%8F/"/>
-    
       <category term="方法" scheme="http://yoursite.com/tags/%E6%96%B9%E6%B3%95/"/>
+    
+      <category term="创意" scheme="http://yoursite.com/tags/%E5%88%9B%E6%84%8F/"/>
     
       <category term="转载" scheme="http://yoursite.com/tags/%E8%BD%AC%E8%BD%BD/"/>
     
@@ -140,29 +247,6 @@
       <category term="笔记" scheme="http://yoursite.com/tags/%E7%AC%94%E8%AE%B0/"/>
     
       <category term="竞品分析" scheme="http://yoursite.com/tags/%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>MyNewPost</title>
-    <link href="http://yoursite.com/uncategorized/MyNewPost/"/>
-    <id>http://yoursite.com/uncategorized/MyNewPost/</id>
-    <published>2019-08-22T09:53:44.000Z</published>
-    <updated>2019-08-25T08:26:46.394Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;中文test&lt;/p&gt;
-
-        
-      
-    
-    </summary>
-    
     
   </entry>
   
