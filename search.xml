@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[hexo new CoffeeMe产品文档]]></title>
+    <url>%2F%E5%8E%9F%E5%88%9B%E9%A1%B9%E7%9B%AE%2Fhexo-new-CoffeeMe%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3%2F</url>
+    <content type="text"><![CDATA[产品说明-思维导图 ![产品说明](D:\MyBlog\source_posts\hexo-new-CoffeeMe产品文档\Coffee Me.png)]]></content>
+      <categories>
+        <category>原创项目</category>
+      </categories>
+      <tags>
+        <tag>PRD</tag>
+        <tag>原创</tag>
+        <tag>思维导图</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[总流程图]]></title>
+    <url>%2Funcategorized%2F%E6%80%BB%E6%B5%81%E7%A8%8B%E5%9B%BE%2F</url>
+    <content type="text"></content>
+  </entry>
+  <entry>
+    <title><![CDATA[项目文档]]></title>
+    <url>%2F%E5%8E%9F%E5%88%9B%2F%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%2F</url>
+    <content type="text"><![CDATA[产品说明]]></content>
+      <categories>
+        <category>原创</category>
+      </categories>
+      <tags>
+        <tag>PRD</tag>
+        <tag>原创</tag>
+        <tag>思维导图</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Website Collection]]></title>
     <url>%2F%E5%B7%A5%E5%85%B7%2FSite-Collection%2F</url>
     <content type="text"><![CDATA[这里整理了一些常用素材网址的快捷方式 矢量图昵图网 无水印图我图网 搜图 图标iconfont 三维模型Free3D 数据来源]]></content>
