@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-09-17T02:53:15.179Z</updated>
+  <updated>2019-10-06T08:23:52.806Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,34 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hexo new CoffeeMe产品文档</title>
-    <link href="http://yoursite.com/%E5%8E%9F%E5%88%9B%E9%A1%B9%E7%9B%AE/hexo-new-CoffeeMe%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/"/>
-    <id>http://yoursite.com/原创项目/hexo-new-CoffeeMe产品文档/</id>
+    <title>业务形态</title>
+    <link href="http://yoursite.com/uncategorized/%E4%B8%9A%E5%8A%A1%E5%BD%A2%E6%80%81/"/>
+    <id>http://yoursite.com/uncategorized/业务形态/</id>
+    <published>2019-10-06T07:55:14.000Z</published>
+    <updated>2019-10-06T08:23:52.806Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;从商业方向来表述，业务形态就是为了满足商业目标&lt;/p&gt;
+
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>产品需求池文档</title>
+    <link href="http://yoursite.com/%E5%8E%9F%E5%88%9B%E9%A1%B9%E7%9B%AE/CoffeeMe%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/"/>
+    <id>http://yoursite.com/原创项目/CoffeeMe产品文档/</id>
     <published>2019-09-17T02:49:53.000Z</published>
-    <updated>2019-09-17T02:53:15.179Z</updated>
+    <updated>2019-10-08T07:46:25.881Z</updated>
     
     <summary type="html">
     
@@ -30,9 +53,9 @@
         
         
           &lt;blockquote&gt;
-&lt;p&gt;产品说明-思维导图&lt;/p&gt;
+&lt;p&gt;产品需求池文档&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;![产品说明](D:\MyBlog\source_posts\hexo-new-CoffeeMe产品文档\Coffee
+
         
       
     
@@ -45,21 +68,23 @@
     
       <category term="原创" scheme="http://yoursite.com/tags/%E5%8E%9F%E5%88%9B/"/>
     
-      <category term="思维导图" scheme="http://yoursite.com/tags/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/"/>
-    
   </entry>
   
   <entry>
     <title>总流程图</title>
-    <link href="http://yoursite.com/uncategorized/%E6%80%BB%E6%B5%81%E7%A8%8B%E5%9B%BE/"/>
-    <id>http://yoursite.com/uncategorized/总流程图/</id>
+    <link href="http://yoursite.com/%E5%8E%9F%E5%88%9B/%E6%80%BB%E6%B5%81%E7%A8%8B%E5%9B%BE/"/>
+    <id>http://yoursite.com/原创/总流程图/</id>
     <published>2019-09-17T02:06:27.000Z</published>
-    <updated>2019-09-17T02:06:27.286Z</updated>
+    <updated>2019-10-08T07:47:50.307Z</updated>
     
     <summary type="html">
     
     </summary>
     
+      <category term="原创" scheme="http://yoursite.com/categories/%E5%8E%9F%E5%88%9B/"/>
+    
+    
+      <category term="PRD" scheme="http://yoursite.com/tags/PRD/"/>
     
   </entry>
   
@@ -68,7 +93,7 @@
     <link href="http://yoursite.com/%E5%8E%9F%E5%88%9B/%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/"/>
     <id>http://yoursite.com/原创/项目文档/</id>
     <published>2019-09-17T02:05:46.000Z</published>
-    <updated>2019-09-17T03:05:21.075Z</updated>
+    <updated>2019-09-17T08:17:56.463Z</updated>
     
     <summary type="html">
     
@@ -109,105 +134,6 @@
       <category term="网址" scheme="http://yoursite.com/tags/%E7%BD%91%E5%9D%80/"/>
     
       <category term="工具" scheme="http://yoursite.com/tags/%E5%B7%A5%E5%85%B7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>9月阅读</title>
-    <link href="http://yoursite.com/%E8%AF%BB%E4%B9%A6/9%E6%9C%88%E9%98%85%E8%AF%BB/"/>
-    <id>http://yoursite.com/读书/9月阅读/</id>
-    <published>2019-09-02T05:17:46.000Z</published>
-    <updated>2019-09-09T06:05:34.244Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;《浪潮之巅》&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-&lt;p&gt;《设计心理学》&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;`&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;&lt;tr&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;td&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;&lt;/table&gt;
-    
-    </summary>
-    
-      <category term="读书" scheme="http://yoursite.com/categories/%E8%AF%BB%E4%B9%A6/"/>
-    
-    
-      <category term="阅读" scheme="http://yoursite.com/tags/%E9%98%85%E8%AF%BB/"/>
-    
-      <category term="打卡" scheme="http://yoursite.com/tags/%E6%89%93%E5%8D%A1/"/>
     
   </entry>
   

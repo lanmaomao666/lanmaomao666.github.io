@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[hexo new CoffeeMe产品文档]]></title>
-    <url>%2F%E5%8E%9F%E5%88%9B%E9%A1%B9%E7%9B%AE%2Fhexo-new-CoffeeMe%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3%2F</url>
-    <content type="text"><![CDATA[产品说明-思维导图 ![产品说明](D:\MyBlog\source_posts\hexo-new-CoffeeMe产品文档\Coffee Me.png)]]></content>
+    <title><![CDATA[业务形态]]></title>
+    <url>%2Funcategorized%2F%E4%B8%9A%E5%8A%A1%E5%BD%A2%E6%80%81%2F</url>
+    <content type="text"><![CDATA[从商业方向来表述，业务形态就是为了满足商业目标]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[产品需求池文档]]></title>
+    <url>%2F%E5%8E%9F%E5%88%9B%E9%A1%B9%E7%9B%AE%2FCoffeeMe%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3%2F</url>
+    <content type="text"><![CDATA[产品需求池文档]]></content>
       <categories>
         <category>原创项目</category>
       </categories>
       <tags>
         <tag>PRD</tag>
         <tag>原创</tag>
-        <tag>思维导图</tag>
       </tags>
   </entry>
   <entry>
     <title><![CDATA[总流程图]]></title>
-    <url>%2Funcategorized%2F%E6%80%BB%E6%B5%81%E7%A8%8B%E5%9B%BE%2F</url>
+    <url>%2F%E5%8E%9F%E5%88%9B%2F%E6%80%BB%E6%B5%81%E7%A8%8B%E5%9B%BE%2F</url>
     <content type="text"></content>
+      <categories>
+        <category>原创</category>
+      </categories>
+      <tags>
+        <tag>PRD</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[项目文档]]></title>
     <url>%2F%E5%8E%9F%E5%88%9B%2F%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%2F</url>
-    <content type="text"><![CDATA[产品说明]]></content>
+    <content type="text"><![CDATA[产品说明 产品概念图]]></content>
       <categories>
         <category>原创</category>
       </categories>
@@ -41,18 +51,6 @@
       <tags>
         <tag>网址</tag>
         <tag>工具</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[9月阅读]]></title>
-    <url>%2F%E8%AF%BB%E4%B9%A6%2F9%E6%9C%88%E9%98%85%E8%AF%BB%2F</url>
-    <content type="text"><![CDATA[《浪潮之巅》 ` ` ` ` ` ` 《设计心理学》 ` ` ` ` `]]></content>
-      <categories>
-        <category>读书</category>
-      </categories>
-      <tags>
-        <tag>阅读</tag>
-        <tag>打卡</tag>
       </tags>
   </entry>
   <entry>
