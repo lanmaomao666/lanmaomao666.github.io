@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[个人作品-APP原型]]></title>
+    <url>%2FPRD%2F%E5%8E%9F%E5%88%9B%2F%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E5%8E%9F%E5%9E%8B%E6%96%87%E6%A1%A3%2F</url>
+    <content type="text"><![CDATA[APP原型体验地址：点击此处预览 首页 首页顶栏为轮播图，满足运营需求，中部为四个主要子功能模块入口，地图卡片存在形式待商榷。首页下拉部分为用户的消费记录，用户在消费后通过扫描小票可自动生成记录信息，用户也可为此次消费记录更多信息，增添消费行为的仪式感。 卡券包 卡券包页面上部分为各种类咖啡厅会员卡，用户在咖啡厅消费/注册为会员后可获得，精美设计的会员卡要能让用户产生收集欲。下部分为优惠券，UI部分需重新设计，此版本原型预览仅表达功能。用户点击会员卡/优惠券 弹出二级页面，包涵二维码、条形码等信息，方便商户扫描。 我的 该页面显示用户账户信息卡片和部分不常用功能入口。个人名片处用户可设定自己的标签，也可以显示他人对用户的评价** **评价功能细节需讨论，形式可以为点赞、“健谈”“友善”之类的评价标签。设计此部分功能时还需考虑一些恶意评价之类的情况。 预览部分就到这里 点击此处体验APP原型]]></content>
+      <categories>
+        <category>PRD</category>
+        <category>原创</category>
+      </categories>
+      <tags>
+        <tag>原创</tag>
+        <tag>Axure</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[业务形态]]></title>
     <url>%2Funcategorized%2F%E4%B8%9A%E5%8A%A1%E5%BD%A2%E6%80%81%2F</url>
     <content type="text"><![CDATA[从商业方向来表述，业务形态就是为了满足商业目标]]></content>
   </entry>
   <entry>
     <title><![CDATA[产品需求池文档]]></title>
-    <url>%2F%E5%8E%9F%E5%88%9B%E9%A1%B9%E7%9B%AE%2FCoffeeMe%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3%2F</url>
-    <content type="text"><![CDATA[产品需求池文档]]></content>
+    <url>%2F%E5%8E%9F%E5%88%9B%E9%A1%B9%E7%9B%AE%2F%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3%2F</url>
+    <content type="text"><![CDATA[COFFEE ME V1.0需求池]]></content>
       <categories>
         <category>原创项目</category>
       </categories>
@@ -19,7 +32,7 @@
   </entry>
   <entry>
     <title><![CDATA[总流程图]]></title>
-    <url>%2F%E5%8E%9F%E5%88%9B%2F%E6%80%BB%E6%B5%81%E7%A8%8B%E5%9B%BE%2F</url>
+    <url>%2F%E5%8E%9F%E5%88%9B%2F%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E6%80%BB%E6%B5%81%E7%A8%8B%E5%9B%BE%2F</url>
     <content type="text"></content>
       <categories>
         <category>原创</category>
@@ -30,7 +43,7 @@
   </entry>
   <entry>
     <title><![CDATA[项目文档]]></title>
-    <url>%2F%E5%8E%9F%E5%88%9B%2F%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%2F</url>
+    <url>%2F%E5%8E%9F%E5%88%9B%2F%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%2F</url>
     <content type="text"><![CDATA[产品说明 产品概念图]]></content>
       <categories>
         <category>原创</category>
