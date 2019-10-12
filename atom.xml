@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2019-10-12T06:41:20.502Z</updated>
+  <updated>2019-10-12T11:30:46.579Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,18 +17,50 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>产品信息结构图</title>
+    <link href="http://yoursite.com/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD%E7%BB%93%E6%9E%84%E5%9B%BE/"/>
+    <id>http://yoursite.com/个人作品/个人作品-产品功能结构图/</id>
+    <published>2019-10-12T07:06:05.000Z</published>
+    <updated>2019-10-12T11:30:46.579Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;blockquote&gt;
+&lt;p&gt;个人作品-产品信息结构图&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/10/12/Fp28BMrP1KnTSyd.png&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="个人作品" scheme="http://yoursite.com/categories/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+    
+      <category term="原创" scheme="http://yoursite.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+      <category term="个人作品" scheme="http://yoursite.com/tags/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81/"/>
+    
+  </entry>
+  
+  <entry>
     <title>个人作品-APP原型</title>
     <link href="http://yoursite.com/PRD/%E5%8E%9F%E5%88%9B/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E5%8E%9F%E5%9E%8B%E6%96%87%E6%A1%A3/"/>
     <id>http://yoursite.com/PRD/原创/个人作品-原型文档/</id>
     <published>2019-10-09T06:11:33.000Z</published>
-    <updated>2019-10-12T06:41:20.502Z</updated>
+    <updated>2019-10-12T12:05:32.105Z</updated>
     
     <summary type="html">
     
       &lt;blockquote&gt;
 &lt;p&gt;APP原型体验地址：&lt;a href=&quot;https://8yojc1.axshare.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;点击此处预览&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;h5 id=&quot;首页&quot;&gt;&lt;a href=&quot;#首页&quot; class=&quot;headerlink&quot; title=&quot;首页&quot;&gt;&lt;/a&gt;首页&lt;/h5&gt;
+&lt;h5 id=&quot;首页&quot;&gt;&lt;a href=&quot;#首页&quot; class=&quot;headerlink&quot; title=&quot;首页&quot;&gt;&lt;/a&gt;首页&lt;/h5&gt;&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/10/12/FZ4WaolKASURXub.png&quot; alt=&quot;预览图-首页&quot;&gt;&lt;/p&gt;
+&lt;p&gt;首页顶栏为轮播图，满足运营需求，中部为四个主要子功能模块入口，地图卡片存在形式待商榷。首页下拉部分为用户的消费记录，用户在消费后通过扫描小票可自动生成记录信息，用户也可为此次消费记录更多信息，增添消费行为的仪式感。&lt;/p&gt;
     
     </summary>
     
@@ -44,32 +76,9 @@
   </entry>
   
   <entry>
-    <title>业务形态</title>
-    <link href="http://yoursite.com/uncategorized/%E4%B8%9A%E5%8A%A1%E5%BD%A2%E6%80%81/"/>
-    <id>http://yoursite.com/uncategorized/业务形态/</id>
-    <published>2019-10-06T07:55:14.000Z</published>
-    <updated>2019-10-12T06:52:22.063Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;p&gt;从商业方向来表述，业务形态就是为了满足商业目标&lt;/p&gt;
-
-        
-      
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>产品需求池文档</title>
-    <link href="http://yoursite.com/%E5%8E%9F%E5%88%9B%E9%A1%B9%E7%9B%AE/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E4%BA%A7%E5%93%81%E6%96%87%E6%A1%A3/"/>
-    <id>http://yoursite.com/原创项目/个人作品-产品文档/</id>
+    <link href="http://yoursite.com/%E5%8E%9F%E5%88%9B%E9%A1%B9%E7%9B%AE/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E9%9C%80%E6%B1%82%E6%B1%A0%E6%96%87%E6%A1%A3/"/>
+    <id>http://yoursite.com/原创项目/个人作品-需求池文档/</id>
     <published>2019-09-17T02:49:53.000Z</published>
     <updated>2019-10-12T06:10:46.337Z</updated>
     
@@ -102,9 +111,15 @@
     <link href="http://yoursite.com/%E5%8E%9F%E5%88%9B/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E6%80%BB%E6%B5%81%E7%A8%8B%E5%9B%BE/"/>
     <id>http://yoursite.com/原创/个人作品-总流程图/</id>
     <published>2019-09-17T02:06:27.000Z</published>
-    <updated>2019-10-08T07:47:50.307Z</updated>
+    <updated>2019-10-12T09:20:27.659Z</updated>
     
     <summary type="html">
+    
+      &lt;p&gt;个人作品-产品流程图&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;登陆流程图&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.loli.net/2019/10/12/L4nc1TyNJw5SUtF.png&quot; alt=&quot;登陆子流程图&quot;&gt;&lt;/p&gt;
     
     </summary>
     
@@ -120,7 +135,7 @@
     <link href="http://yoursite.com/%E5%8E%9F%E5%88%9B/%E4%B8%AA%E4%BA%BA%E4%BD%9C%E5%93%81-%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3/"/>
     <id>http://yoursite.com/原创/个人作品-项目文档/</id>
     <published>2019-09-17T02:05:46.000Z</published>
-    <updated>2019-09-17T08:17:56.463Z</updated>
+    <updated>2019-10-12T11:36:47.940Z</updated>
     
     <summary type="html">
     
@@ -245,9 +260,9 @@
       <category term="PM笔记" scheme="http://yoursite.com/categories/PM%E7%AC%94%E8%AE%B0/"/>
     
     
-      <category term="方法" scheme="http://yoursite.com/tags/%E6%96%B9%E6%B3%95/"/>
-    
       <category term="创意" scheme="http://yoursite.com/tags/%E5%88%9B%E6%84%8F/"/>
+    
+      <category term="方法" scheme="http://yoursite.com/tags/%E6%96%B9%E6%B3%95/"/>
     
       <category term="转载" scheme="http://yoursite.com/tags/%E8%BD%AC%E8%BD%BD/"/>
     
